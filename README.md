@@ -8,6 +8,7 @@
 | Data Partition |In Bagging ,data partition is random.   | In boosting , mis-classfied data is given higher importance.  |
 | Goal |In Bagging ,the goal is to reduce the variance in Model.  | In boosting ,the goal is to increase the prediction accuracy of the model. |
 | Method |In Bagging ,we use random subspace. | In boosting ,we use gradient descent method. |
+| Function |Bagging uses weighted or average function. | Boosting uses weighted majority vote function.|
 
 
 
